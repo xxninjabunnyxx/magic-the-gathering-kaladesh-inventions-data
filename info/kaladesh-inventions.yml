@@ -1,0 +1,21 @@
+---
+object: set
+id: 910ea2a2-9f6a-4665-98f6-165ea7928952
+code: mps
+mtgo_code: ms2
+arena_code: ms2
+tcgplayer_id: 1837
+name: Kaladesh Inventions
+uri: https://api.scryfall.com/sets/910ea2a2-9f6a-4665-98f6-165ea7928952
+scryfall_uri: https://scryfall.com/sets/mps
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amps&unique=prints
+released_at: '2016-09-30'
+set_type: masterpiece
+card_count: 54
+parent_set_code: kld
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: kld
+block: Kaladesh
+icon_svg_uri: https://svgs.scryfall.io/sets/mps.svg?1694404800

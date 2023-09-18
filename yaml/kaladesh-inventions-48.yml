@@ -1,0 +1,113 @@
+---
+object: card
+id: 696e623c-3b6d-4a6a-9f5e-52d0d5f9fba3
+oracle_id: d7888719-647d-4022-a211-822fa09f0791
+multiverse_ids:
+- 425819
+mtgo_id: 62959
+mtgo_foil_id: 62960
+tcgplayer_id: 126294
+cardmarket_id: 294727
+name: Staff of Domination
+lang: en
+released_at: '2016-09-30'
+uri: https://api.scryfall.com/cards/696e623c-3b6d-4a6a-9f5e-52d0d5f9fba3
+scryfall_uri: https://scryfall.com/card/mps/48/staff-of-domination?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/9/696e623c-3b6d-4a6a-9f5e-52d0d5f9fba3.jpg?1562917049
+  normal: https://cards.scryfall.io/normal/front/6/9/696e623c-3b6d-4a6a-9f5e-52d0d5f9fba3.jpg?1562917049
+  large: https://cards.scryfall.io/large/front/6/9/696e623c-3b6d-4a6a-9f5e-52d0d5f9fba3.jpg?1562917049
+  png: https://cards.scryfall.io/png/front/6/9/696e623c-3b6d-4a6a-9f5e-52d0d5f9fba3.png?1562917049
+  art_crop: https://cards.scryfall.io/art_crop/front/6/9/696e623c-3b6d-4a6a-9f5e-52d0d5f9fba3.jpg?1562917049
+  border_crop: https://cards.scryfall.io/border_crop/front/6/9/696e623c-3b6d-4a6a-9f5e-52d0d5f9fba3.jpg?1562917049
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: |-
+  {1}: Untap Staff of Domination.
+  {2}, {T}: You gain 1 life.
+  {3}, {T}: Untap target creature.
+  {4}, {T}: Tap target creature.
+  {5}, {T}: Draw a card.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 910ea2a2-9f6a-4665-98f6-165ea7928952
+set: mps
+set_name: Kaladesh Inventions
+set_type: masterpiece
+set_uri: https://api.scryfall.com/sets/910ea2a2-9f6a-4665-98f6-165ea7928952
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amps&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mps?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/696e623c-3b6d-4a6a-9f5e-52d0d5f9fba3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad7888719-647d-4022-a211-822fa09f0791&unique=prints
+collector_number: '48'
+digital: false
+rarity: special
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zezhou Chen
+artist_ids:
+- 810677e5-a502-4c03-b726-78cd808a75d4
+illustration_id: '097763be-fe6e-4090-ba16-41567af1feee'
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 685
+penny_rank: 2065
+prices:
+  usd: 
+  usd_foil: '113.71'
+  usd_etched: 
+  eur: 
+  eur_foil: '84.99'
+  tix: '0.31'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425819
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Staff+of+Domination&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Staff+of+Domination&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Staff+of+Domination
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/126294?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Staff+of+Domination&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/62959?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

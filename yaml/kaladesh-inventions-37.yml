@@ -1,0 +1,111 @@
+---
+object: card
+id: b165eb23-df92-4769-ac56-9db083f4c45c
+oracle_id: dade5835-ccaf-45e3-b9a3-46017e0384b3
+multiverse_ids:
+- 425808
+mtgo_id: 62945
+mtgo_foil_id: 62946
+tcgplayer_id: 126285
+cardmarket_id: 294720
+name: Ensnaring Bridge
+lang: en
+released_at: '2016-09-30'
+uri: https://api.scryfall.com/cards/b165eb23-df92-4769-ac56-9db083f4c45c
+scryfall_uri: https://scryfall.com/card/mps/37/ensnaring-bridge?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/1/b165eb23-df92-4769-ac56-9db083f4c45c.jpg?1562932415
+  normal: https://cards.scryfall.io/normal/front/b/1/b165eb23-df92-4769-ac56-9db083f4c45c.jpg?1562932415
+  large: https://cards.scryfall.io/large/front/b/1/b165eb23-df92-4769-ac56-9db083f4c45c.jpg?1562932415
+  png: https://cards.scryfall.io/png/front/b/1/b165eb23-df92-4769-ac56-9db083f4c45c.png?1562932415
+  art_crop: https://cards.scryfall.io/art_crop/front/b/1/b165eb23-df92-4769-ac56-9db083f4c45c.jpg?1562932415
+  border_crop: https://cards.scryfall.io/border_crop/front/b/1/b165eb23-df92-4769-ac56-9db083f4c45c.jpg?1562932415
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: Creatures with power greater than the number of cards in your hand can't
+  attack.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 910ea2a2-9f6a-4665-98f6-165ea7928952
+set: mps
+set_name: Kaladesh Inventions
+set_type: masterpiece
+set_uri: https://api.scryfall.com/sets/910ea2a2-9f6a-4665-98f6-165ea7928952
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amps&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mps?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b165eb23-df92-4769-ac56-9db083f4c45c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adade5835-ccaf-45e3-b9a3-46017e0384b3&unique=prints
+collector_number: '37'
+digital: false
+rarity: special
+flavor_text: |-
+  "With a few minor adjustments, we were able to convert sky-dock assisters into a defense system for the Aether Spire."
+  —Consulate engineer's log
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Florian de Gesincourt
+artist_ids:
+- f28c54ff-bbe3-485d-81a4-b2cb49430a52
+illustration_id: ac85e9f0-01c1-48be-b9a6-6885b234ab77
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 4462
+prices:
+  usd: 
+  usd_foil: '124.34'
+  usd_etched: 
+  eur: 
+  eur_foil: '120.00'
+  tix: '3.96'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425808
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ensnaring+Bridge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ensnaring+Bridge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ensnaring+Bridge
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/126285?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ensnaring+Bridge&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/62945?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
